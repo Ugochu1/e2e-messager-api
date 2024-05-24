@@ -1,0 +1,25 @@
+{
+  "name": "e2e-messager-api",
+  "version": "1.0.0",
+  "description": "Implement end-to-end encryption and web sockets to securely transfer data between users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ugochu1/e2e-messager-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ugochu1/e2e-messager-api/issues"
+  },
+  "homepage": "https://github.com/Ugochu1/e2e-messager-api#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
